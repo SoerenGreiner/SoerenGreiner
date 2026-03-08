@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**SoerenGreiner/SoerenGreiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<td width="60%">
+Hi, ich bin <b>Sören</b> 👋<br>
+Software Developer / Game Dev<br>
+Skills: Unity, C#, Java
+</td>
+<td width="40%">
+<img src="Media/profile.png" width="150"/>
+</td>
+</tr>
+</table>

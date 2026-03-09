@@ -24,7 +24,7 @@ Currently developing a Sports Tracking App using .NET MAUI, which can be seen [h
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xaml/xaml-original.svg" width="40"/>
+<img src="Media/xml.png" width="40" title="XAML"/>
 </p>
 
 ### Frameworks & Platforms ⚙️

@@ -1,4 +1,4 @@
-<img src="Media/profile.jpg" width="150" align="right"/>
+<img src="Media/profile.jpg" width="150" align="right"/><br clear="all"/>
 
 Hello, I'm <b>Sören Greiner</b> 👋
 Software Engineer specializing in **C# / .NET** and **.NET MAUI**.
@@ -48,10 +48,18 @@ Currently developing a **Sports Tracking App** using .NET MAUI, which can be see
 
 ## GitHub Stats 🏆
 
-![Sören's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoerenGreiner&show_icons=true&theme=radical)
+<!-- Follower & Repositories -->
+<p>
+  <img src="https://img.shields.io/github/followers/SoerenGreiner?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/public-repos/SoerenGreiner?style=flat-square" alt="Public Repos"/>
+  <img src="https://img.shields.io/github/commits-since/SoerenGreiner/unity-fps-demo/latest?style=flat-square" alt="Recent Commits"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoerenGreiner&layout=compact&theme=radical)
-
+<!-- Top Languages -->
+<p>
+  <img src="https://img.shields.io/github/languages/top/SoerenGreiner/unity-fps-demo?style=flat-square&color=blue" alt="Top Language"/>
+  <img src="https://img.shields.io/github/languages/count/SoerenGreiner/unity-fps-demo?style=flat-square&color=green" alt="Languages Count"/>
+</p>
 ## Featured Projects 📱🎮
 **Unity FPS** – University project, focus on gameplay mechanics and artificial intelligence.
 [![Unity FPS](Media/demo2.gif)](https://github.com/SoerenGreiner/unity-fps-demo)

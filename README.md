@@ -1,5 +1,6 @@
-<div style="display:flex; align-items:flex-start; flex-wrap:wrap;">
-  <!-- Text links -->
+<!-- PROFILE HEADER -->
+<div style="display:flex; align-items:flex-start; flex-wrap:wrap; margin-bottom:20px;">
+  <!-- TEXT -->
   <div style="flex:1; min-width:250px; margin-right:20px;">
     Hi, I'm <b>Sören Greiner</b> 👋<br>
     Software Engineer specializing in <b>C# / .NET</b> and <b>.NET MAUI</b>.<br>
@@ -9,6 +10,12 @@
     <br>
     Currently developing a <b>Sports Tracking App</b> using .NET MAUI, which can be seen <a href="https://github.com/SoerenGreiner/Gym-Logs">here</a>.
   </div>
+
+  <!-- IMAGE -->
+  <div style="min-width:150px; margin-top:10px;">
+    <img src="Media/profile.jpg" width="150" style="border-radius:10px;"/>
+  </div>
+</div>
 
   <div style="min-width:150px;">
     <img src="Media/profile.jpg" width="150" style="border-radius:10px;"/>

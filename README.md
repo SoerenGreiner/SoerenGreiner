@@ -65,6 +65,9 @@ Currently developing a Sports Tracking App using .NET MAUI, which can be seen [h
 
 ## Featured Projects 📱🎮
 
+**Maui Sports Tracking** – Maui project, focus on data collection, processing, and visual presentation.
+[![Unity FPS](Media/dokument2.PNG)](https://github.com/SoerenGreiner/Gym-logs)
+
 **Unity FPS** – University project, focus on gameplay mechanics and artificial intelligence.
 [![Unity FPS](Media/demo2.gif)](https://github.com/SoerenGreiner/unity-fps-demo)
 

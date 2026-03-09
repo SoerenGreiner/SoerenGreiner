@@ -61,6 +61,7 @@ Currently developing a **Sports Tracking App** using .NET MAUI, which can be see
   <img src="https://img.shields.io/github/languages/count/SoerenGreiner/unity-fps-demo?style=flat-square&color=green" alt="Languages Count"/>
 </p>
 ## Featured Projects 📱🎮
+
 **Unity FPS** – University project, focus on gameplay mechanics and artificial intelligence.
 [![Unity FPS](Media/demo2.gif)](https://github.com/SoerenGreiner/unity-fps-demo)
 

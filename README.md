@@ -1,9 +1,8 @@
-<table>
+<table cellspacing="0" cellpadding="0">
 <tr>
 <td width="60%">
-Hi, ich bin <b>Sören</b> 👋<br>
-Software Developer / Game Dev<br>
-Skills: Unity, C#, Java
+Hi, I am <b>Sören Greiner</b> 👋<br>
+Software Engineer>
 </td>
 <td width="40%">
 <img src="Media/profile.png" width="150"/>

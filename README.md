@@ -43,28 +43,31 @@ Currently developing a **Sports Tracking App** using .NET MAUI, which can be see
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" title="Visual Studio"/>
 </p>
 
 ## GitHub Stats 🏆
+
 ![Sören's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoerenGreiner&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoerenGreiner&layout=compact&theme=radical)
 
 ## Featured Projects 📱🎮
-[![Unity FPS](Media/demo2.gif)](https://github.com/SoerenGreiner/unity-fps-demo)
 **Unity FPS** – University project, focus on gameplay mechanics and artificial intelligence.
+[![Unity FPS](Media/demo2.gif)](https://github.com/SoerenGreiner/unity-fps-demo)
 
-[![Unity Active Time Battle](Media/demo1.gif)](https://github.com/SoerenGreiner/unity-active-time-battle-system-demo)
 **Unity Active Time Battle System** – Bachelor thesis project, focus on gameplay mechanics and combat cycle.
+[![Unity Active Time Battle](Media/demo1.gif)](https://github.com/SoerenGreiner/unity-active-time-battle-system-demo)
 
-[![Java Library Management](Media/dokument1.png)](https://github.com/SoerenGreiner/java-library-management)
 **Java Library Management System** – Group project during studies, backend logic, graphical representation and tests implemented.
+[![Java Library Management](Media/dokument1.png)](https://github.com/SoerenGreiner/java-library-management)
 
 ## Contact ✉️
-<p>
-<a href="https://www.linkedin.com/in/sören-greiner-05906b335">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" title="LinkedIn"/>
-</a>
-<a href="mailto:SoerenGreiner@gmx.de">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/envelope.svg" width="30" title="Email"/>
-</a>
-</p>
+<div style="display:flex; gap:10px; align-items:center;">
+  <a href="https://www.linkedin.com/in/sören-greiner-05906b335">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" title="LinkedIn"/>
+  </a>
+  <a href="mailto:SoerenGreiner@gmx.de">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="30" title="Email"/>
+  </a>
+</div>

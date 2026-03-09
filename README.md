@@ -1,26 +1,15 @@
-<!-- PROFILE HEADER -->
-<div style="display:flex; align-items:flex-start; flex-wrap:wrap; margin-bottom:20px;">
-  <!-- TEXT -->
-  <div style="flex:1; min-width:250px; margin-right:20px;">
-    Hi, I'm <b>Sören Greiner</b> 👋<br>
-    Software Engineer specializing in <b>C# / .NET</b> and <b>.NET MAUI</b>.<br>
-    <br>
-    I have experience in application development and <b>migrating from Xamarin to MAUI</b>.<br>
-    This profile also includes various <b>Unity prototypes and gameplay systems</b> from my university projects.<br>
-    <br>
-    Currently developing a <b>Sports Tracking App</b> using .NET MAUI, which can be seen <a href="https://github.com/SoerenGreiner/Gym-Logs">here</a>.
-  </div>
+<!-- PROFILBILD -->
+<img src="Media/profile.jpg" width="150" style="border-radius:10px;"/>
 
-  <!-- IMAGE -->
-  <div style="min-width:150px; margin-top:10px;">
-    <img src="Media/profile.jpg" width="150" style="border-radius:10px;"/>
-  </div>
-</div>
+<!-- VORSTELLUNG -->
+Hi, I'm **Sören Greiner** 👋  
+Software Engineer specializing in **C# / .NET** and **.NET MAUI**.  
 
-  <div style="min-width:150px;">
-    <img src="Media/profile.jpg" width="150" style="border-radius:10px;"/>
-  </div>
-</div>
+I have experience in application development and migrating from Xamarin to MAUI.  
+This profile also includes various Unity prototypes and gameplay systems from my university projects.  
+
+Currently developing a Sports Tracking App using .NET MAUI, which can be seen [here](https://github.com/SoerenGreiner/Gym-Logs).
+
 ## Tech Stack 🛠️
 
 ### Languages 💻

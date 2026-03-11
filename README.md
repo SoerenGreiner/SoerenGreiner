@@ -75,7 +75,7 @@ Currently developing a Sports Tracking App using .NET MAUI, which can be seen [h
 [![Unity Active Time Battle](Media/demo1.gif)](https://github.com/SoerenGreiner/unity-active-time-battle-system-demo)
 
 **Java Library Management System** – Group project during studies, backend logic, graphical representation and tests implemented.
-[![Java Library Management](Media/dokument1.png)](https://github.com/SoerenGreiner/java-library-management)
+[![Java Library Management](Media/dokument1.png)](https://github.com/SoerenGreiner/java-library-management-system)
 
 ## Contact ✉️
 <div style="display:flex; gap:10px; align-items:center;">
